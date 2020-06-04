@@ -1,0 +1,2 @@
+1,ana,ana,anaa,abc,al,tr,Tirane,ek,12,068,1,Fri May 29 22:03:18 2020
+2,beni,beni,benii,asd,al,dr,Durres,sd,32,067,1,Fri May 29 22:03:57 2020

@@ -1,0 +1,4 @@
+1,aa,aa,head ache,al,tr,Tirane,as,56,123,anaa,2,1590702752,1590782669,79917
+2,bb,bb,high temperature,al,tr,Tirane,er,23,456,,0,1590702793,0,0
+3,cc,cc,tummy ache,al,dr,Durres,gj,12,789,benii,2,1590702856,1590790531,87675
+4,dd,dd,tooth ache,al,dr,Durres,io,79,147,benii,2,1590702893,1590782695,79802
